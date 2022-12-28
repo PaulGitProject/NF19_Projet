@@ -18,6 +18,14 @@ Une fois dans ce dossier avec votre Terminal, executez la commande :
 
 - $docker compose up -d
 
-
 Wordpress et MySQL s'installeront dans des containers Docker. Les données de la BDD ainsi que les images sauvegardées seront respectivement sauvegardée dans les dossier "GIFTCARD_SQL" et "wordpress" du dossier décompressé. Ainsi, pour partager vos modifications, il suffit de transférer a vos collégues votre dossier global.
+
+
+Le site Wordpress est alors accessible sur http://localhost:5000 
+
+Les identifiants sont :
+- USERNAME = GiftCARD
+- PASSWORD = GiftCard
+
+
 
