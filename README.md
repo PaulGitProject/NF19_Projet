@@ -25,7 +25,7 @@ Le site Wordpress est alors accessible sur http://localhost:5000
 
 Les identifiants sont :
 - USERNAME = GiftCARD
-- PASSWORD = GiftCard
+- PASSWORD = GiftCARD
 
 
 
